@@ -18,8 +18,6 @@ A web application that extracts tables from PDF files and exports them to an Exc
 
 ### Backend
 - Python Flask
-- [Tabula-py](https://github.com/chezou/tabula-py) (for PDF table extraction)
-- [OpenPyXL](https://openpyxl.readthedocs.io/) (for Excel file creation)
 
 ## Installation
 
